@@ -1,2 +1,3 @@
-# VBV
-Fake Virus pretending to install an antivirus just to scare people
+# VisualBasicVirus
+
+VisualBasicVirus is just a harmless python script designed to scare people. 
