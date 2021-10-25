@@ -119,7 +119,7 @@ if choice == 'yes':
   print('rmdir C:/' + username + '/System32/')
   print('Deleting system32...')
   sleep(12)
-  print('Running decryptor on all files within the C:/ directory')
+  print('Running encryptor on all files within the C:/ directory')
   print('Please wait...')
   sleep(16)
   
